@@ -1,0 +1,3 @@
+[submodule "hls4ml"]
+	path = hls4ml
+	url = git@github.com:Duchstf/hls4ml.git

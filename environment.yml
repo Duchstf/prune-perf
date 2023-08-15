@@ -1,0 +1,16 @@
+name: prune_perf
+dependencies:
+  - python=3.8
+  - tensorflow
+  - keras
+  - scikit-learn
+  - matplotlib
+  - pip
+  - ipykernel
+  - pip:
+    - h5py
+    - scipy==1.5.4
+    - numpy
+    - mplhep
+    - jupyter
+    - qkeras
